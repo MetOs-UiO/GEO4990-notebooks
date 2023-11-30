@@ -1,3 +1,6 @@
+# Ignore all files in following directory
+example-notebooks/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
