@@ -1,4 +1,4 @@
-# ignore all files in following folders
+# Ignore all files in following directory
 example-notebooks/
 
 # Byte-compiled / optimized / DLL files
